@@ -2,6 +2,10 @@
 
 A lightweight Node.js backend service that provides seamless integration with Spotify's Web API, delivering comprehensive music data and functionality.
 
+> [!WARNING]
+> current deprecated
+
+
 ## Key Features
 
 - 🔍 Advanced track/album/artist search capabilities
