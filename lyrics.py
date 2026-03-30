@@ -1,6 +1,7 @@
 #pls don't forgot to star this repo
 #https://github.com/Soumyadeep765/Song/
 
+# deprecated, lyrics not working 
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
